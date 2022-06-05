@@ -9,6 +9,10 @@ img:hover {
   background-color: green;
 }
 
+img {
+  size: 20px;
+}
+
 hr {
   border-style: none;
   border-top-style: dotted;
